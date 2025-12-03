@@ -34,15 +34,20 @@ git clone https://github.com/Carlody36/todo-list-js
 
 
 ## 👉 📘 Usage
--🌐 Open the app in your browser.
+- 🌐 Open the app in your browser.
+- ➕ Add tasks using the input field.
+- ✏️🗑️ Edit or delete tasks with the action buttons.
+- ✅ Mark tasks complete by clicking the checkbox.
+- 💾 Tasks are saved automatically in localStorage.
 
--➕ Add tasks using the input field.
 
--✏️🗑️ Edit or delete tasks with the action buttons.
 
--✅ Mark tasks complete by clicking the checkbox.
 
--💾 Tasks are saved automatically in localStorage.
+
+
+
+
+
 
 
 
