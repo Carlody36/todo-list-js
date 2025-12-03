@@ -16,10 +16,10 @@ It allows users to add, edit, complete, and delete tasks, with persistence acros
   
 
 ## 🛠️ Tech Stack
-- **HTML5** – structure
-- **Tailwind CSS** – responsive styling
-- **JavaScript (ES6)** – app logic
-- **localStorage** – data persistence
+- 🏗️ **HTML5** – structure
+- 🎨 **Tailwind CSS** – responsive styling
+- ⚡ **JavaScript (ES6)** – app logic
+- 💾 **localStorage** – data persistence
 
 
 
@@ -34,14 +34,15 @@ git clone https://github.com/Carlody36/todo-list-js
 
 
 ## 👉 📘 Usage
-Open the app in your browser.
+-🌐 Open the app in your browser.
 
-Add tasks using the input field.
+-➕ Add tasks using the input field.
 
-Edit or delete tasks with the action buttons.
+-✏️🗑️ Edit or delete tasks with the action buttons.
 
-Mark tasks complete by clicking the checkbox.
-Tasks are saved automatically in localStorage.
+-✅ Mark tasks complete by clicking the checkbox.
+
+-💾 Tasks are saved automatically in localStorage.
 
 
 
